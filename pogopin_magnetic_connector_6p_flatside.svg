@@ -8,7 +8,7 @@
    version="1.1"
    id="svg7723"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   sodipodi:docname="pogopin_magnetic_connector_6p.svg"
+   sodipodi:docname="pogopin_magnetic_connector_6p_flatside.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.0359279"
-     inkscape:cx="247.30739"
+     inkscape:cx="247.79856"
      inkscape:cy="284.39121"
      inkscape:window-width="1920"
      inkscape:window-height="958"
@@ -40,8 +40,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 27.701235,58.678773 19.228726,0.02296 c 0,0 2.802754,0.25271 2.848701,3.009515 0.04595,2.756807 -2.894647,2.940595 -2.894647,2.940595 l -19.067914,-0.04595 c 0,0 -2.895035,-0.115169 -2.917621,-2.871674 -0.02184,-2.665219 2.802755,-3.055462 2.802755,-3.055462 z"
+       style="fill:none;stroke:#000000;stroke-width:0.26884px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.748462,58.681216 19.538117,0.02333 c 0,0 2.84785,0.256776 2.894536,3.057938 0.04669,2.801164 -2.941221,2.987909 -2.941221,2.987909 l -19.374718,-0.04669 c 0,0 -2.941616,-0.117022 -2.964565,-2.91788 -0.02219,-2.708102 2.847851,-3.104624 2.847851,-3.104624 z"
        id="path9341"
        sodipodi:nodetypes="ccsccscc" />
   </g>
