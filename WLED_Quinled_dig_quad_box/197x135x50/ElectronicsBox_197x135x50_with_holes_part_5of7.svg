@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="354.20mm"
+   height="433.90mm"
+   viewBox="0.0 0.0 354.20 433.90"
+   version="1.1"
+   id="svg24805"
+   sodipodi:docname="ElectronicsBox_197x135x50_with_holes_part_5of7.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs24809">
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508737"
+       id="rect59777" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-8" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-3" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-6" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-9" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview24807"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="-500.49902"
+     inkscape:cy="628.66212"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="p-2" />
+  <!--
+ElectronicsBox - Closed box with screw on top and mounting holes
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Creation date: 2023-04-13 15:31:11
+Command line (remove spaces between dashes): boxes ElectronicsBox - -FingerJoint_play=0.1 - -x=197 - -y=135 - -h=50
+Url: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.1&FingerJoint_space=2.0&FingerJoint_width=1.0&x=197&y=135&h=50&outside=0&outside=1&triangle=25.0&d1=2.0&d2=3.0&d3=3.0&outsidemounts=0&outsidemounts=1&holedist=7.0&thickness=3.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de&render=1
+Url short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&x=197&y=135&h=50
+SettingsUrl: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.1&FingerJoint_space=2.0&FingerJoint_width=1.0&x=197&y=135&h=50&outside=0&outside=1&triangle=25.0&d1=2.0&d2=3.0&d3=3.0&outsidemounts=0&outsidemounts=1&holedist=7.0&thickness=3.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de
+SettingsUrl short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&x=197&y=135&h=50
+-->
+  <title
+     id="title24677">ElectronicsBox</title>
+  <metadata
+     id="metadata24679">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:title>ElectronicsBox</dc:title>
+        <dc:date>2023-04-13 15:31:11</dc:date>
+        <dc:source>http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=197&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=1</dc:source>
+        <dc:source>http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp;x=197&amp;y=135&amp;h=50</dc:source>
+        <dc:description>Closed box with screw on top and mounting holes
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Command line: boxes ElectronicsBox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=2.0 --FingerJoint_bottom_lip=0.0 --FingerJoint_edge_width=1.0 --FingerJoint_extra_length=0.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.1 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --x=197 --y=135 --h=50 --outside=0 --outside=1 --triangle=25.0 --d1=2.0 --d2=3.0 --d3=3.0 --outsidemounts=0 --outsidemounts=1 --holedist=7.0 --thickness=3.0 --format=svg --tabs=0.0 --qr_code=0 --debug=0 --labels=0 --labels=1 --reference=100 --inner_corners=loop --burn=0.1
+Command line short: boxes ElectronicsBox --FingerJoint_play=0.1 --x=197 --y=135 --h=50
+Url: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=197&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=1
+Url short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp;x=197&amp;y=135&amp;h=50
+SettingsUrl: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=197&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de
+SettingsUrl short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp;x=197&amp;y=135&amp;h=50
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="p-1"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+    <path
+       d="M 25.900 368.150 H 22.850 C 22.750 368.150 22.850 368.250 22.850 368.150 V 365.050 C 22.850 364.950 22.750 365.050 22.850 365.050 H 28.950 C 29.050 365.050 28.950 364.950 28.950 365.050 V 368.150 C 28.950 368.250 29.050 368.150 28.950 368.150 H 25.900 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path24686" />
+    <path
+       d="M 191.900 365.050 H 194.950 C 195.050 365.050 194.950 364.950 194.950 365.050 V 368.150 C 194.950 368.250 195.050 368.150 194.950 368.150 H 188.850 C 188.750 368.150 188.850 368.250 188.850 368.150 V 365.050 C 188.850 364.950 188.750 365.050 188.850 365.050 H 191.900 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path24688" />
+    <path
+       d="M 13.400 409.200 H 21.800 C 21.900 409.200 21.800 409.100 21.800 409.200 V 412.100 C 21.800 412.155 21.845 412.200 21.900 412.200 H 27.900 C 27.955 412.200 28.000 412.155 28.000 412.100 V 409.200 C 28.000 409.100 27.900 409.200 28.000 409.200 H 33.800 C 33.900 409.200 33.800 409.100 33.800 409.200 V 412.100 C 33.800 412.155 33.845 412.200 33.900 412.200 H 39.900 C 39.955 412.200 40.000 412.155 40.000 412.100 V 409.200 C 40.000 409.100 39.900 409.200 40.000 409.200 H 45.800 C 45.900 409.200 45.800 409.100 45.800 409.200 V 412.100 C 45.800 412.155 45.845 412.200 45.900 412.200 H 51.900 C 51.955 412.200 52.000 412.155 52.000 412.100 V 409.200 C 52.000 409.100 51.900 409.200 52.000 409.200 H 57.800 C 57.900 409.200 57.800 409.100 57.800 409.200 V 412.100 C 57.800 412.155 57.845 412.200 57.900 412.200 H 63.900 C 63.955 412.200 64.000 412.155 64.000 412.100 V 409.200 C 64.000 409.100 63.900 409.200 64.000 409.200 H 69.800 C 69.900 409.200 69.800 409.100 69.800 409.200 V 412.100 C 69.800 412.155 69.845 412.200 69.900 412.200 H 75.900 C 75.955 412.200 76.000 412.155 76.000 412.100 V 409.200 C 76.000 409.100 75.900 409.200 76.000 409.200 H 81.800 C 81.900 409.200 81.800 409.100 81.800 409.200 V 412.100 C 81.800 412.155 81.845 412.200 81.900 412.200 H 87.900 C 87.955 412.200 88.000 412.155 88.000 412.100 V 409.200 C 88.000 409.100 87.900 409.200 88.000 409.200 H 93.800 C 93.900 409.200 93.800 409.100 93.800 409.200 V 412.100 C 93.800 412.155 93.845 412.200 93.900 412.200 H 99.900 C 99.955 412.200 100.000 412.155 100.000 412.100 V 409.200 C 100.000 409.100 99.900 409.200 100.000 409.200 H 105.800 C 105.900 409.200 105.800 409.100 105.800 409.200 V 412.100 C 105.800 412.155 105.845 412.200 105.900 412.200 H 111.900 C 111.955 412.200 112.000 412.155 112.000 412.100 V 409.200 C 112.000 409.100 111.900 409.200 112.000 409.200 H 117.800 C 117.900 409.200 117.800 409.100 117.800 409.200 V 412.100 C 117.800 412.155 117.845 412.200 117.900 412.200 H 123.900 C 123.955 412.200 124.000 412.155 124.000 412.100 V 409.200 C 124.000 409.100 123.900 409.200 124.000 409.200 H 129.800 C 129.900 409.200 129.800 409.100 129.800 409.200 V 412.100 C 129.800 412.155 129.845 412.200 129.900 412.200 H 135.900 C 135.955 412.200 136.000 412.155 136.000 412.100 V 409.200 C 136.000 409.100 135.900 409.200 136.000 409.200 H 141.800 C 141.900 409.200 141.800 409.100 141.800 409.200 V 412.100 C 141.800 412.155 141.845 412.200 141.900 412.200 H 147.900 C 147.955 412.200 148.000 412.155 148.000 412.100 V 409.200 C 148.000 409.100 147.900 409.200 148.000 409.200 H 153.800 C 153.900 409.200 153.800 409.100 153.800 409.200 V 412.100 C 153.800 412.155 153.845 412.200 153.900 412.200 H 159.900 C 159.955 412.200 160.000 412.155 160.000 412.100 V 409.200 C 160.000 409.100 159.900 409.200 160.000 409.200 H 165.800 C 165.900 409.200 165.800 409.100 165.800 409.200 V 412.100 C 165.800 412.155 165.845 412.200 165.900 412.200 H 171.900 C 171.955 412.200 172.000 412.155 172.000 412.100 V 409.200 C 172.000 409.100 171.900 409.200 172.000 409.200 H 177.800 C 177.900 409.200 177.800 409.100 177.800 409.200 V 412.100 C 177.800 412.155 177.845 412.200 177.900 412.200 H 183.900 C 183.955 412.200 184.000 412.155 184.000 412.100 V 409.200 C 184.000 409.100 183.900 409.200 184.000 409.200 H 189.800 C 189.900 409.200 189.800 409.100 189.800 409.200 V 412.100 C 189.800 412.155 189.845 412.200 189.900 412.200 H 195.900 C 195.955 412.200 196.000 412.155 196.000 412.100 V 409.200 C 196.000 409.100 195.900 409.200 196.000 409.200 H 204.400 H 207.400 C 207.455 409.200 207.500 409.155 207.500 409.100 V 400.750 C 207.500 400.695 207.455 400.650 207.400 400.650 H 204.500 C 204.400 400.650 204.500 400.750 204.500 400.650 V 394.550 C 204.500 394.450 204.400 394.550 204.500 394.550 H 207.400 C 207.455 394.550 207.500 394.505 207.500 394.450 V 388.750 C 207.500 388.695 207.455 388.650 207.400 388.650 H 204.500 C 204.400 388.650 204.500 388.750 204.500 388.650 V 382.550 C 204.500 382.450 204.400 382.550 204.500 382.550 H 207.400 C 207.455 382.550 207.500 382.505 207.500 382.450 V 376.750 C 207.500 376.695 207.455 376.650 207.400 376.650 H 204.500 C 204.400 376.650 204.500 376.750 204.500 376.650 V 370.550 C 204.500 370.450 204.400 370.550 204.500 370.550 H 207.400 C 207.455 370.550 207.500 370.505 207.500 370.450 V 362.100 C 207.500 362.045 207.455 362.000 207.400 362.000 H 204.400 H 13.400 H 10.400 C 10.345 362.000 10.300 362.045 10.300 362.100 V 370.450 C 10.300 370.505 10.345 370.550 10.400 370.550 H 13.300 C 13.400 370.550 13.300 370.450 13.300 370.550 V 376.650 C 13.300 376.750 13.400 376.650 13.300 376.650 H 10.400 C 10.345 376.650 10.300 376.695 10.300 376.750 V 382.450 C 10.300 382.505 10.345 382.550 10.400 382.550 H 13.300 C 13.400 382.550 13.300 382.450 13.300 382.550 V 388.650 C 13.300 388.750 13.400 388.650 13.300 388.650 H 10.400 C 10.345 388.650 10.300 388.695 10.300 388.750 V 394.450 C 10.300 394.505 10.345 394.550 10.400 394.550 H 13.300 C 13.400 394.550 13.300 394.450 13.300 394.550 V 400.650 C 13.300 400.750 13.400 400.650 13.300 400.650 H 10.400 C 10.345 400.650 10.300 400.695 10.300 400.750 V 409.100 C 10.300 409.155 10.345 409.200 10.400 409.200 H 13.400"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path24692" />
+  </g>
+  <g
+     id="p-2"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+    <g
+       inkscape:label="0"
+       id="g29275-2"
+       transform="matrix(-0.26458333,0,0,0.26458333,146.78897,201.2813)">
+      <path
+         d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28337-3" />
+      <path
+         d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28339-3" />
+      <path
+         d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28341-7" />
+    </g>
+    <g
+       inkscape:label="0"
+       id="g29275-2-9"
+       transform="matrix(-0.26458333,0,0,0.26458333,177.63898,201.2813)">
+      <path
+         d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28337-3-2" />
+      <path
+         d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28339-3-9" />
+      <path
+         d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28341-7-1" />
+    </g>
+    <g
+       inkscape:label="0"
+       id="g29275-2-8"
+       transform="matrix(-0.26458333,0,0,0.26458333,208.48898,201.2813)">
+      <path
+         d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28337-3-7" />
+      <path
+         d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28339-3-8" />
+      <path
+         d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28341-7-0" />
+    </g>
+    <g
+       inkscape:label="0"
+       id="g29275-2-2"
+       transform="matrix(-0.26458333,0,0,0.26458333,239.33898,201.2813)">
+      <path
+         d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28337-3-3" />
+      <path
+         d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28339-3-2" />
+      <path
+         d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28341-7-7" />
+    </g>
+    <g
+       inkscape:label="0"
+       id="g29275-2-2-3"
+       transform="matrix(-0.26458333,0,0,0.26458333,270.18897,201.2813)"
+       style="fill:none;stroke-linecap:round;stroke-linejoin:round">
+      <path
+         d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28337-3-3-5" />
+      <path
+         d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28339-3-2-4" />
+      <path
+         d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28341-7-7-3" />
+    </g>
+    <g
+       inkscape:label="0"
+       id="g29275-2-2-3-7"
+       transform="matrix(-0.26458333,0,0,0.26458333,301.03897,201.2813)"
+       style="fill:none;stroke-linecap:round;stroke-linejoin:round">
+      <path
+         d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28337-3-3-5-7" />
+      <path
+         d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28339-3-2-4-4" />
+      <path
+         d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+         id="path28341-7-7-3-4" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-30.502617,55.077945)"
+       id="text59775-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="228.70508"
+         y="1314.9882"
+         id="tspan88991"><tspan
+           style="fill:#e30005"
+           id="tspan88989">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.70298239,55.077945)"
+       id="text59775-3-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="228.70508"
+         y="1314.9882"
+         id="tspan88995"><tspan
+           style="fill:#e30005"
+           id="tspan88993">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,31.552982,55.077945)"
+       id="text59775-3-0-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="228.70508"
+         y="1314.9882"
+         id="tspan88999"><tspan
+           style="fill:#e30005"
+           id="tspan88997">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,62.402982,55.077945)"
+       id="text59775-3-0-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="228.70508"
+         y="1314.9882"
+         id="tspan89003"><tspan
+           style="fill:#e30005"
+           id="tspan89001">4</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,93.252982,55.077945)"
+       id="text59775-3-0-71"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="228.70508"
+         y="1314.9882"
+         id="tspan89007"><tspan
+           style="fill:#e30005"
+           id="tspan89005">5</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,124.10298,55.077945)"
+       id="text59775-3-0-73"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="228.70508"
+         y="1314.9882"
+         id="tspan89011"><tspan
+           style="fill:#e30005"
+           id="tspan89009">6</tspan></tspan></text>
+  </g>
+</svg>

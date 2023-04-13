@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="292.20mm"
+   height="433.90mm"
+   viewBox="0.0 0.0 292.20 433.90"
+   version="1.1"
+   id="svg18117"
+   sodipodi:docname="ElectronicsBox_135x135x5_part2_B.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs18121" /><sodipodi:namedview
+     id="namedview18119"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.84402181"
+     inkscape:cx="555.08044"
+     inkscape:cy="1364.8936"
+     inkscape:window-width="1680"
+     inkscape:window-height="928"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="p-4" /><!--
+ElectronicsBox - Closed box with screw on top and mounting holes
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Creation date: 2022-12-20 15:13:56
+Command line (remove spaces between dashes): boxes ElectronicsBox - -FingerJoint_angle=90.0 - -FingerJoint_style=rectangular - -FingerJoint_surroundingspaces=2.0 - -FingerJoint_edge_width=1.0 - -FingerJoint_extra_length=0.0 - -FingerJoint_finger=2.0 - -FingerJoint_play=0.1 - -FingerJoint_space=2.0 - -FingerJoint_width=1.0 - -x=135 - -y=135 - -h=50 - -outside=0 - -outside=1 - -triangle=25.0 - -d1=2.0 - -d2=3.0 - -d3=3.0 - -outsidemounts=0 - -outsidemounts=1 - -holedist=7.0 - -thickness=3.0 - -format=svg - -tabs=0.0 - -debug=0 - -labels=0 - -reference=100 - -inner_corners=loop - -burn=0.1
+Url: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.1&FingerJoint_space=2.0&FingerJoint_width=1.0&x=135&y=135&h=50&outside=0&outside=1&triangle=25.0&d1=2.0&d2=3.0&d3=3.0&outsidemounts=0&outsidemounts=1&holedist=7.0&thickness=3.0&format=svg&tabs=0.0&debug=0&labels=0&reference=100&inner_corners=loop&burn=0.1&render=1
+SettingsUrl: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.1&FingerJoint_space=2.0&FingerJoint_width=1.0&x=135&y=135&h=50&outside=0&outside=1&triangle=25.0&d1=2.0&d2=3.0&d3=3.0&outsidemounts=0&outsidemounts=1&holedist=7.0&thickness=3.0&format=svg&tabs=0.0&debug=0&labels=0&reference=100&inner_corners=loop&burn=0.1
+--><title
+     id="title18001">ElectronicsBox</title><metadata
+     id="metadata18003"><rdf:RDF><cc:Work><dc:title>ElectronicsBox</dc:title><dc:date>2022-12-20 15:13:56</dc:date><dc:source>http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=135&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;render=1</dc:source><dc:description>Closed box with screw on top and mounting holes
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Command line: boxes ElectronicsBox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=2.0 --FingerJoint_edge_width=1.0 --FingerJoint_extra_length=0.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.1 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --x=135 --y=135 --h=50 --outside=0 --outside=1 --triangle=25.0 --d1=2.0 --d2=3.0 --d3=3.0 --outsidemounts=0 --outsidemounts=1 --holedist=7.0 --thickness=3.0 --format=svg --tabs=0.0 --debug=0 --labels=0 --reference=100 --inner_corners=loop --burn=0.1
+Url: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=135&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;render=1
+SettingsUrl: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=135&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1
+</dc:description></cc:Work></rdf:RDF></metadata><g
+     id="p-1"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;"><path
+       d="M 25.900 368.150 H 22.850 C 22.750 368.150 22.850 368.250 22.850 368.150 V 365.050 C 22.850 364.950 22.750 365.050 22.850 365.050 H 28.950 C 29.050 365.050 28.950 364.950 28.950 365.050 V 368.150 C 28.950 368.250 29.050 368.150 28.950 368.150 H 25.900 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path18010" /><path
+       d="M 129.900 365.050 H 132.950 C 133.050 365.050 132.950 364.950 132.950 365.050 V 368.150 C 132.950 368.250 133.050 368.150 132.950 368.150 H 126.850 C 126.750 368.150 126.850 368.250 126.850 368.150 V 365.050 C 126.850 364.950 126.750 365.050 126.850 365.050 H 129.900 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path18012" /><path
+       d="M 13.400 409.200 H 20.800 C 20.900 409.200 20.800 409.100 20.800 409.200 V 412.100 C 20.800 412.155 20.845 412.200 20.900 412.200 H 26.900 C 26.955 412.200 27.000 412.155 27.000 412.100 V 409.200 C 27.000 409.100 26.900 409.200 27.000 409.200 H 32.800 C 32.900 409.200 32.800 409.100 32.800 409.200 V 412.100 C 32.800 412.155 32.845 412.200 32.900 412.200 H 38.900 C 38.955 412.200 39.000 412.155 39.000 412.100 V 409.200 C 39.000 409.100 38.900 409.200 39.000 409.200 H 44.800 C 44.900 409.200 44.800 409.100 44.800 409.200 V 412.100 C 44.800 412.155 44.845 412.200 44.900 412.200 H 50.900 C 50.955 412.200 51.000 412.155 51.000 412.100 V 409.200 C 51.000 409.100 50.900 409.200 51.000 409.200 H 56.800 C 56.900 409.200 56.800 409.100 56.800 409.200 V 412.100 C 56.800 412.155 56.845 412.200 56.900 412.200 H 62.900 C 62.955 412.200 63.000 412.155 63.000 412.100 V 409.200 C 63.000 409.100 62.900 409.200 63.000 409.200 H 68.800 C 68.900 409.200 68.800 409.100 68.800 409.200 V 412.100 C 68.800 412.155 68.845 412.200 68.900 412.200 H 74.900 C 74.955 412.200 75.000 412.155 75.000 412.100 V 409.200 C 75.000 409.100 74.900 409.200 75.000 409.200 H 80.800 C 80.900 409.200 80.800 409.100 80.800 409.200 V 412.100 C 80.800 412.155 80.845 412.200 80.900 412.200 H 86.900 C 86.955 412.200 87.000 412.155 87.000 412.100 V 409.200 C 87.000 409.100 86.900 409.200 87.000 409.200 H 92.800 C 92.900 409.200 92.800 409.100 92.800 409.200 V 412.100 C 92.800 412.155 92.845 412.200 92.900 412.200 H 98.900 C 98.955 412.200 99.000 412.155 99.000 412.100 V 409.200 C 99.000 409.100 98.900 409.200 99.000 409.200 H 104.800 C 104.900 409.200 104.800 409.100 104.800 409.200 V 412.100 C 104.800 412.155 104.845 412.200 104.900 412.200 H 110.900 C 110.955 412.200 111.000 412.155 111.000 412.100 V 409.200 C 111.000 409.100 110.900 409.200 111.000 409.200 H 116.800 C 116.900 409.200 116.800 409.100 116.800 409.200 V 412.100 C 116.800 412.155 116.845 412.200 116.900 412.200 H 122.900 C 122.955 412.200 123.000 412.155 123.000 412.100 V 409.200 C 123.000 409.100 122.900 409.200 123.000 409.200 H 128.800 C 128.900 409.200 128.800 409.100 128.800 409.200 V 412.100 C 128.800 412.155 128.845 412.200 128.900 412.200 H 134.900 C 134.955 412.200 135.000 412.155 135.000 412.100 V 409.200 C 135.000 409.100 134.900 409.200 135.000 409.200 H 142.400 H 145.400 C 145.455 409.200 145.500 409.155 145.500 409.100 V 400.750 C 145.500 400.695 145.455 400.650 145.400 400.650 H 142.500 C 142.400 400.650 142.500 400.750 142.500 400.650 V 394.550 C 142.500 394.450 142.400 394.550 142.500 394.550 H 145.400 C 145.455 394.550 145.500 394.505 145.500 394.450 V 388.750 C 145.500 388.695 145.455 388.650 145.400 388.650 H 142.500 C 142.400 388.650 142.500 388.750 142.500 388.650 V 382.550 C 142.500 382.450 142.400 382.550 142.500 382.550 H 145.400 C 145.455 382.550 145.500 382.505 145.500 382.450 V 376.750 C 145.500 376.695 145.455 376.650 145.400 376.650 H 142.500 C 142.400 376.650 142.500 376.750 142.500 376.650 V 370.550 C 142.500 370.450 142.400 370.550 142.500 370.550 H 145.400 C 145.455 370.550 145.500 370.505 145.500 370.450 V 362.100 C 145.500 362.045 145.455 362.000 145.400 362.000 H 142.400 H 13.400 H 10.400 C 10.345 362.000 10.300 362.045 10.300 362.100 V 370.450 C 10.300 370.505 10.345 370.550 10.400 370.550 H 13.300 C 13.400 370.550 13.300 370.450 13.300 370.550 V 376.650 C 13.300 376.750 13.400 376.650 13.300 376.650 H 10.400 C 10.345 376.650 10.300 376.695 10.300 376.750 V 382.450 C 10.300 382.505 10.345 382.550 10.400 382.550 H 13.300 C 13.400 382.550 13.300 382.450 13.300 382.550 V 388.650 C 13.300 388.750 13.400 388.650 13.300 388.650 H 10.400 C 10.345 388.650 10.300 388.695 10.300 388.750 V 394.450 C 10.300 394.505 10.345 394.550 10.400 394.550 H 13.300 C 13.400 394.550 13.300 394.450 13.300 394.550 V 400.650 C 13.300 400.750 13.400 400.650 13.300 400.650 H 10.400 C 10.345 400.650 10.300 400.695 10.300 400.750 V 409.100 C 10.300 409.155 10.345 409.200 10.400 409.200 H 13.400 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path18014" /></g><g
+     id="p-2"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;"><path
+       d="M 162.600 368.150 H 159.550 C 159.450 368.150 159.550 368.250 159.550 368.150 V 365.050 C 159.550 364.950 159.450 365.050 159.550 365.050 H 165.650 C 165.750 365.050 165.650 364.950 165.650 365.050 V 368.150 C 165.650 368.250 165.750 368.150 165.650 368.150 H 162.600 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path18017" /><path
+       d="M 266.600 365.050 H 269.650 C 269.750 365.050 269.650 364.950 269.650 365.050 V 368.150 C 269.650 368.250 269.750 368.150 269.650 368.150 H 263.550 C 263.450 368.150 263.550 368.250 263.550 368.150 V 365.050 C 263.550 364.950 263.450 365.050 263.550 365.050 H 266.600 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path18019" /><path
+       d="M 150.100 409.200 H 157.500 C 157.600 409.200 157.500 409.100 157.500 409.200 V 412.100 C 157.500 412.155 157.545 412.200 157.600 412.200 H 163.600 C 163.655 412.200 163.700 412.155 163.700 412.100 V 409.200 C 163.700 409.100 163.600 409.200 163.700 409.200 H 169.500 C 169.600 409.200 169.500 409.100 169.500 409.200 V 412.100 C 169.500 412.155 169.545 412.200 169.600 412.200 H 175.600 C 175.655 412.200 175.700 412.155 175.700 412.100 V 409.200 C 175.700 409.100 175.600 409.200 175.700 409.200 H 181.500 C 181.600 409.200 181.500 409.100 181.500 409.200 V 412.100 C 181.500 412.155 181.545 412.200 181.600 412.200 H 187.600 C 187.655 412.200 187.700 412.155 187.700 412.100 V 409.200 C 187.700 409.100 187.600 409.200 187.700 409.200 H 193.500 C 193.600 409.200 193.500 409.100 193.500 409.200 V 412.100 C 193.500 412.155 193.545 412.200 193.600 412.200 H 199.600 C 199.655 412.200 199.700 412.155 199.700 412.100 V 409.200 C 199.700 409.100 199.600 409.200 199.700 409.200 H 205.500 C 205.600 409.200 205.500 409.100 205.500 409.200 V 412.100 C 205.500 412.155 205.545 412.200 205.600 412.200 H 211.600 C 211.655 412.200 211.700 412.155 211.700 412.100 V 409.200 C 211.700 409.100 211.600 409.200 211.700 409.200 H 217.500 C 217.600 409.200 217.500 409.100 217.500 409.200 V 412.100 C 217.500 412.155 217.545 412.200 217.600 412.200 H 223.600 C 223.655 412.200 223.700 412.155 223.700 412.100 V 409.200 C 223.700 409.100 223.600 409.200 223.700 409.200 H 229.500 C 229.600 409.200 229.500 409.100 229.500 409.200 V 412.100 C 229.500 412.155 229.545 412.200 229.600 412.200 H 235.600 C 235.655 412.200 235.700 412.155 235.700 412.100 V 409.200 C 235.700 409.100 235.600 409.200 235.700 409.200 H 241.500 C 241.600 409.200 241.500 409.100 241.500 409.200 V 412.100 C 241.500 412.155 241.545 412.200 241.600 412.200 H 247.600 C 247.655 412.200 247.700 412.155 247.700 412.100 V 409.200 C 247.700 409.100 247.600 409.200 247.700 409.200 H 253.500 C 253.600 409.200 253.500 409.100 253.500 409.200 V 412.100 C 253.500 412.155 253.545 412.200 253.600 412.200 H 259.600 C 259.655 412.200 259.700 412.155 259.700 412.100 V 409.200 C 259.700 409.100 259.600 409.200 259.700 409.200 H 265.500 C 265.600 409.200 265.500 409.100 265.500 409.200 V 412.100 C 265.500 412.155 265.545 412.200 265.600 412.200 H 271.600 C 271.655 412.200 271.700 412.155 271.700 412.100 V 409.200 C 271.700 409.100 271.600 409.200 271.700 409.200 H 279.100 C 279.155 409.200 279.200 409.155 279.200 409.100 V 400.700 C 279.200 400.600 279.100 400.700 279.200 400.700 H 282.100 C 282.155 400.700 282.200 400.655 282.200 400.600 V 394.600 C 282.200 394.545 282.155 394.500 282.100 394.500 H 279.200 C 279.100 394.500 279.200 394.600 279.200 394.500 V 388.700 C 279.200 388.600 279.100 388.700 279.200 388.700 H 282.100 C 282.155 388.700 282.200 388.655 282.200 388.600 V 382.600 C 282.200 382.545 282.155 382.500 282.100 382.500 H 279.200 C 279.100 382.500 279.200 382.600 279.200 382.500 V 376.700 C 279.200 376.600 279.100 376.700 279.200 376.700 H 282.100 C 282.155 376.700 282.200 376.655 282.200 376.600 V 370.600 C 282.200 370.545 282.155 370.500 282.100 370.500 H 279.200 C 279.100 370.500 279.200 370.600 279.200 370.500 V 362.100 C 279.200 362.045 279.155 362.000 279.100 362.000 H 150.100 C 150.045 362.000 150.000 362.045 150.000 362.100 V 370.500 C 150.000 370.600 150.100 370.500 150.000 370.500 H 147.100 C 147.045 370.500 147.000 370.545 147.000 370.600 V 376.600 C 147.000 376.655 147.045 376.700 147.100 376.700 H 150.000 C 150.100 376.700 150.000 376.600 150.000 376.700 V 382.500 C 150.000 382.600 150.100 382.500 150.000 382.500 H 147.100 C 147.045 382.500 147.000 382.545 147.000 382.600 V 388.600 C 147.000 388.655 147.045 388.700 147.100 388.700 H 150.000 C 150.100 388.700 150.000 388.600 150.000 388.700 V 394.500 C 150.000 394.600 150.100 394.500 150.000 394.500 H 147.100 C 147.045 394.500 147.000 394.545 147.000 394.600 V 400.600 C 147.000 400.655 147.045 400.700 147.100 400.700 H 150.000 C 150.100 400.700 150.000 400.600 150.000 400.700 V 409.100 C 150.000 409.155 150.045 409.200 150.100 409.200 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path18021" /></g><g
+     id="p-4"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;" /><g
+     inkscape:label="0"
+     id="g29275-2"
+     transform="matrix(0,-0.26458333,0.26458333,0,-152.51922,500.5895)"><path
+       d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28337-3" /><path
+       d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28339-3" /><path
+       d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28341-7" /></g><g
+     inkscape:label="0"
+     id="g29275-2-9"
+     transform="matrix(0,-0.26458333,0.26458333,0,-121.66922,500.5895)"><path
+       d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28337-3-2" /><path
+       d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28339-3-9" /><path
+       d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28341-7-1" /></g><g
+     inkscape:label="0"
+     id="g29275-2-8"
+     transform="matrix(0,-0.26458333,0.26458333,0,-90.819223,500.5895)"><path
+       d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28337-3-7" /><path
+       d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28339-3-8" /><path
+       d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28341-7-0" /></g><g
+     inkscape:label="0"
+     id="g29275-2-2"
+     transform="matrix(0,-0.26458333,0.26458333,0,-59.969222,500.5895)"><path
+       d="m 403.73171,733.53774 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28337-3-3" /><path
+       d="m 476.39795,696.26164 a 41.415995,41.417893 0 0 0 -82.83199,0 41.415995,41.417893 0 0 0 82.83199,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28339-3-2" /><path
+       d="m 478.28049,658.98554 a 6.02415,6.0244262 0 0 0 -12.0483,0 6.02415,6.0244262 0 0 0 12.0483,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
+       id="path28341-7-7" /></g></svg>

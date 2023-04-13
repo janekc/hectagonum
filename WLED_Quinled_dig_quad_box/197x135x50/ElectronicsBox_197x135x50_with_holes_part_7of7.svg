@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="354.20mm"
+   height="433.90mm"
+   viewBox="0.0 0.0 354.20 433.90"
+   version="1.1"
+   id="svg24805"
+   sodipodi:docname="ElectronicsBox_197x135x50_with_holes_part_7of7.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs24809">
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508737"
+       id="rect59777" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-8" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-3" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-6" />
+    <rect
+       x="228.70485"
+       y="1294.8893"
+       width="191.1398"
+       height="47.508736"
+       id="rect59777-6-0-9" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview24807"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="-1278.3165"
+     inkscape:cy="628.66212"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24805" />
+  <!--
+ElectronicsBox - Closed box with screw on top and mounting holes
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Creation date: 2023-04-13 15:31:11
+Command line (remove spaces between dashes): boxes ElectronicsBox - -FingerJoint_play=0.1 - -x=197 - -y=135 - -h=50
+Url: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.1&FingerJoint_space=2.0&FingerJoint_width=1.0&x=197&y=135&h=50&outside=0&outside=1&triangle=25.0&d1=2.0&d2=3.0&d3=3.0&outsidemounts=0&outsidemounts=1&holedist=7.0&thickness=3.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de&render=1
+Url short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&x=197&y=135&h=50
+SettingsUrl: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.1&FingerJoint_space=2.0&FingerJoint_width=1.0&x=197&y=135&h=50&outside=0&outside=1&triangle=25.0&d1=2.0&d2=3.0&d3=3.0&outsidemounts=0&outsidemounts=1&holedist=7.0&thickness=3.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de
+SettingsUrl short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&x=197&y=135&h=50
+-->
+  <title
+     id="title24677">ElectronicsBox</title>
+  <metadata
+     id="metadata24679">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:title>ElectronicsBox</dc:title>
+        <dc:date>2023-04-13 15:31:11</dc:date>
+        <dc:source>http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=197&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=1</dc:source>
+        <dc:source>http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp;x=197&amp;y=135&amp;h=50</dc:source>
+        <dc:description>Closed box with screw on top and mounting holes
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Command line: boxes ElectronicsBox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=2.0 --FingerJoint_bottom_lip=0.0 --FingerJoint_edge_width=1.0 --FingerJoint_extra_length=0.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.1 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --x=197 --y=135 --h=50 --outside=0 --outside=1 --triangle=25.0 --d1=2.0 --d2=3.0 --d3=3.0 --outsidemounts=0 --outsidemounts=1 --holedist=7.0 --thickness=3.0 --format=svg --tabs=0.0 --qr_code=0 --debug=0 --labels=0 --labels=1 --reference=100 --inner_corners=loop --burn=0.1
+Command line short: boxes ElectronicsBox --FingerJoint_play=0.1 --x=197 --y=135 --h=50
+Url: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=197&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=1
+Url short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp;x=197&amp;y=135&amp;h=50
+SettingsUrl: http://localhost:8000/ElectronicsBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.1&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;x=197&amp;y=135&amp;h=50&amp;outside=0&amp;outside=1&amp;triangle=25.0&amp;d1=2.0&amp;d2=3.0&amp;d3=3.0&amp;outsidemounts=0&amp;outsidemounts=1&amp;holedist=7.0&amp;thickness=3.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de
+SettingsUrl short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp;x=197&amp;y=135&amp;h=50
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="p-2"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+    <path
+       d="M 224.600 368.150 H 221.550 C 221.450 368.150 221.550 368.250 221.550 368.150 V 365.050 C 221.550 364.950 221.450 365.050 221.550 365.050 H 227.650 C 227.750 365.050 227.650 364.950 227.650 365.050 V 368.150 C 227.650 368.250 227.750 368.150 227.650 368.150 H 224.600 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path24695" />
+    <path
+       d="M 328.600 365.050 H 331.650 C 331.750 365.050 331.650 364.950 331.650 365.050 V 368.150 C 331.650 368.250 331.750 368.150 331.650 368.150 H 325.550 C 325.450 368.150 325.550 368.250 325.550 368.150 V 365.050 C 325.550 364.950 325.450 365.050 325.550 365.050 H 328.600 Z"
+       stroke="rgb(0,0,255)"
+       stroke-width="0.20"
+       id="path24697" />
+    <path
+       d="M 212.100 409.200 H 219.500 C 219.600 409.200 219.500 409.100 219.500 409.200 V 412.100 C 219.500 412.155 219.545 412.200 219.600 412.200 H 225.600 C 225.655 412.200 225.700 412.155 225.700 412.100 V 409.200 C 225.700 409.100 225.600 409.200 225.700 409.200 H 231.500 C 231.600 409.200 231.500 409.100 231.500 409.200 V 412.100 C 231.500 412.155 231.545 412.200 231.600 412.200 H 237.600 C 237.655 412.200 237.700 412.155 237.700 412.100 V 409.200 C 237.700 409.100 237.600 409.200 237.700 409.200 H 243.500 C 243.600 409.200 243.500 409.100 243.500 409.200 V 412.100 C 243.500 412.155 243.545 412.200 243.600 412.200 H 249.600 C 249.655 412.200 249.700 412.155 249.700 412.100 V 409.200 C 249.700 409.100 249.600 409.200 249.700 409.200 H 255.500 C 255.600 409.200 255.500 409.100 255.500 409.200 V 412.100 C 255.500 412.155 255.545 412.200 255.600 412.200 H 261.600 C 261.655 412.200 261.700 412.155 261.700 412.100 V 409.200 C 261.700 409.100 261.600 409.200 261.700 409.200 H 267.500 C 267.600 409.200 267.500 409.100 267.500 409.200 V 412.100 C 267.500 412.155 267.545 412.200 267.600 412.200 H 273.600 C 273.655 412.200 273.700 412.155 273.700 412.100 V 409.200 C 273.700 409.100 273.600 409.200 273.700 409.200 H 279.500 C 279.600 409.200 279.500 409.100 279.500 409.200 V 412.100 C 279.500 412.155 279.545 412.200 279.600 412.200 H 285.600 C 285.655 412.200 285.700 412.155 285.700 412.100 V 409.200 C 285.700 409.100 285.600 409.200 285.700 409.200 H 291.500 C 291.600 409.200 291.500 409.100 291.500 409.200 V 412.100 C 291.500 412.155 291.545 412.200 291.600 412.200 H 297.600 C 297.655 412.200 297.700 412.155 297.700 412.100 V 409.200 C 297.700 409.100 297.600 409.200 297.700 409.200 H 303.500 C 303.600 409.200 303.500 409.100 303.500 409.200 V 412.100 C 303.500 412.155 303.545 412.200 303.600 412.200 H 309.600 C 309.655 412.200 309.700 412.155 309.700 412.100 V 409.200 C 309.700 409.100 309.600 409.200 309.700 409.200 H 315.500 C 315.600 409.200 315.500 409.100 315.500 409.200 V 412.100 C 315.500 412.155 315.545 412.200 315.600 412.200 H 321.600 C 321.655 412.200 321.700 412.155 321.700 412.100 V 409.200 C 321.700 409.100 321.600 409.200 321.700 409.200 H 327.500 C 327.600 409.200 327.500 409.100 327.500 409.200 V 412.100 C 327.500 412.155 327.545 412.200 327.600 412.200 H 333.600 C 333.655 412.200 333.700 412.155 333.700 412.100 V 409.200 C 333.700 409.100 333.600 409.200 333.700 409.200 H 341.100 C 341.155 409.200 341.200 409.155 341.200 409.100 V 400.700 C 341.200 400.600 341.100 400.700 341.200 400.700 H 344.100 C 344.155 400.700 344.200 400.655 344.200 400.600 V 394.600 C 344.200 394.545 344.155 394.500 344.100 394.500 H 341.200 C 341.100 394.500 341.200 394.600 341.200 394.500 V 388.700 C 341.200 388.600 341.100 388.700 341.200 388.700 H 344.100 C 344.155 388.700 344.200 388.655 344.200 388.600 V 382.600 C 344.200 382.545 344.155 382.500 344.100 382.500 H 341.200 C 341.100 382.500 341.200 382.600 341.200 382.500 V 376.700 C 341.200 376.600 341.100 376.700 341.200 376.700 H 344.100 C 344.155 376.700 344.200 376.655 344.200 376.600 V 370.600 C 344.200 370.545 344.155 370.500 344.100 370.500 H 341.200 C 341.100 370.500 341.200 370.600 341.200 370.500 V 362.100 C 341.200 362.045 341.155 362.000 341.100 362.000 H 212.100 C 212.045 362.000 212.000 362.045 212.000 362.100 V 370.500 C 212.000 370.600 212.100 370.500 212.000 370.500 H 209.100 C 209.045 370.500 209.000 370.545 209.000 370.600 V 376.600 C 209.000 376.655 209.045 376.700 209.100 376.700 H 212.000 C 212.100 376.700 212.000 376.600 212.000 376.700 V 382.500 C 212.000 382.600 212.100 382.500 212.000 382.500 H 209.100 C 209.045 382.500 209.000 382.545 209.000 382.600 V 388.600 C 209.000 388.655 209.045 388.700 209.100 388.700 H 212.000 C 212.100 388.700 212.000 388.600 212.000 388.700 V 394.500 C 212.000 394.600 212.100 394.500 212.000 394.500 H 209.100 C 209.045 394.500 209.000 394.545 209.000 394.600 V 400.600 C 209.000 400.655 209.045 400.700 209.100 400.700 H 212.000 C 212.100 400.700 212.000 400.600 212.000 400.700 V 409.100 C 212.000 409.155 212.045 409.200 212.100 409.200"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path24701" />
+  </g>
+</svg>
