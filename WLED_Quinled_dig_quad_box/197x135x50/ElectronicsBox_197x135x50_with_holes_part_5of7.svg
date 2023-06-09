@@ -7,6 +7,9 @@
    id="svg24805"
    sodipodi:docname="ElectronicsBox_197x135x50_with_holes_part_5of7.svg"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="ElectronicsBox_197x135x50_with_holes_part_5of77g.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -70,15 +73,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="-500.49902"
-     inkscape:cy="628.66212"
-     inkscape:window-width="2560"
-     inkscape:window-height="1387"
+     inkscape:zoom="1.0296278"
+     inkscape:cx="404.51513"
+     inkscape:cy="1482.089"
+     inkscape:window-width="1680"
+     inkscape:window-height="924"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="p-2" />
+     inkscape:current-layer="p-1" />
   <!--
 ElectronicsBox - Closed box with screw on top and mounting holes
 
@@ -243,61 +246,49 @@ SettingsUrl short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-30.502617,55.077945)"
        id="text59775-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6);display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"><tspan
          x="228.70508"
          y="1314.9882"
-         id="tspan88991"><tspan
-           style="fill:#e30005"
-           id="tspan88989">1</tspan></tspan></text>
+         id="tspan9359">1</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0.70298239,55.077945)"
        id="text59775-3-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0);display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"><tspan
          x="228.70508"
          y="1314.9882"
-         id="tspan88995"><tspan
-           style="fill:#e30005"
-           id="tspan88993">2</tspan></tspan></text>
+         id="tspan9361">2</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,31.552982,55.077945)"
        id="text59775-3-0-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-8);display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"><tspan
          x="228.70508"
          y="1314.9882"
-         id="tspan88999"><tspan
-           style="fill:#e30005"
-           id="tspan88997">3</tspan></tspan></text>
+         id="tspan9363">3</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,62.402982,55.077945)"
        id="text59775-3-0-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-3);display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"><tspan
          x="228.70508"
          y="1314.9882"
-         id="tspan89003"><tspan
-           style="fill:#e30005"
-           id="tspan89001">4</tspan></tspan></text>
+         id="tspan9365">4</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,93.252982,55.077945)"
        id="text59775-3-0-71"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-6);display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"><tspan
          x="228.70508"
          y="1314.9882"
-         id="tspan89007"><tspan
-           style="fill:#e30005"
-           id="tspan89005">5</tspan></tspan></text>
+         id="tspan9367">5</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,124.10298,55.077945)"
        id="text59775-3-0-73"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777-6-0-9);display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"><tspan
          x="228.70508"
          y="1314.9882"
-         id="tspan89011"><tspan
-           style="fill:#e30005"
-           id="tspan89009">6</tspan></tspan></text>
+         id="tspan9369">6</tspan></text>
   </g>
 </svg>

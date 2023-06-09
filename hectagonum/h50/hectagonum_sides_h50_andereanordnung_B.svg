@@ -5,7 +5,7 @@
    viewBox="0.0 0.0 1019.00 369.39"
    version="1.1"
    id="svg42"
-   sodipodi:docname="hectagonum_sides_h50_andereanordnung_A.svg"
+   sodipodi:docname="hectagonum_sides_h50_andereanordnung_B.svg"
    xml:space="preserve"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,13 +27,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.7426636"
-     inkscape:cx="811.26906"
+     inkscape:cx="811.94231"
      inkscape:cy="231.5988"
-     inkscape:window-width="1680"
-     inkscape:window-height="928"
+     inkscape:window-width="1387"
+     inkscape:window-height="924"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g45015" /><!--
 RegularBox - Box with regular polygon as base
 
@@ -113,7 +113,7 @@ SettingsUrl: http://localhost:8000/RegularBox?FingerJoint_angle=90.0&amp;FingerJ
        sodipodi:nodetypes="ccsccscc" /><g
        inkscape:label="0"
        id="g29275"
-       transform="matrix(0,0.26458333,-0.26458333,0,443.81975,-85.588974)"><path
+       transform="matrix(0,0.26458333,-0.26458333,0,443.81975,-87.588975)"><path
          d="m 600.26715,733.53775 a 6.024145,6.0244212 0 0 0 -12.04829,0 6.024145,6.0244212 0 0 0 12.04829,0 z"
          style="fill:none;stroke:#000000;stroke-width:0.332067;stroke-linecap:round"
          id="path28337" /><path

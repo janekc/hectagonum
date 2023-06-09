@@ -71,13 +71,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.45254834"
-     inkscape:cx="-217.65631"
-     inkscape:cy="628.66212"
-     inkscape:window-width="2560"
-     inkscape:window-height="1387"
+     inkscape:cx="-216.55145"
+     inkscape:cy="627.55727"
+     inkscape:window-width="1387"
+     inkscape:window-height="924"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="p-2" />
   <!--
 ElectronicsBox - Closed box with screw on top and mounting holes
@@ -149,14 +149,12 @@ SettingsUrl short: http://localhost:8000/ElectronicsBox?FingerJoint_play=0.1&amp
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,11.10839,0.87697814)"
+       transform="matrix(0.26458333,0,0,0.26458333,11.608383,0.87697814)"
        id="text59775"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';white-space:pre;shape-inside:url(#rect59777);display:inline;fill:#00ff00;fill-opacity:1;stroke:none"><tspan
          x="228.70508"
          y="1314.9882"
-         id="tspan86514"><tspan
-           style="fill:#e30005"
-           id="tspan86512">12v 30A</tspan></tspan></text>
+         id="tspan11353">12v 30A</tspan></text>
   </g>
   <g
      id="p-4"
